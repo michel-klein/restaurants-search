@@ -1,5 +1,8 @@
 ## Google Maps restaurant search app
 
+![image](https://user-images.githubusercontent.com/58671687/143510814-98b0d9e3-c748-4f15-87eb-e8b14d98cef0.png)
+
+Website consuming the Google Maps API, using React. Available at https://restaurant-app-dio.netlify.app/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
